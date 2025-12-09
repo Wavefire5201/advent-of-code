@@ -54,3 +54,5 @@ with open("input.txt") as f:
 
     print(p1)
     print(p2)
+
+    # note: this p2 is incorret, check stack.py for correct solution
